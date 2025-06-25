@@ -1,7 +1,7 @@
 
-# 🧠 Machine Learning en Python – Ejemplos Básicos
+# 🧠 Machine Learning en Python – Proyectos
 
-Este repositorio contiene tres ejemplos sencillos de algoritmos de Machine Learning usando `scikit-learn`. Los casos incluyen clasificación de imágenes, regresión de precios y clasificación de flores.
+Este repositorio contiene tres ejemplos de algoritmos de Machine Learning usando `scikit-learn`. Los casos incluyen clasificación de imágenes, regresión de precios y clasificación de flores.
 
 ## 📁 Contenido del repositorio
 
